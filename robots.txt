@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://if.fti.unand.ac.id/sitemap.xml
